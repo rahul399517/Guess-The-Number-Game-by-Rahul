@@ -1,0 +1,119 @@
+#title {
+  margin-left: 30px;
+  font-family: Georgia;
+}
+#logo {
+  margin-top: 100px;
+}
+
+#text {
+  text-align: center;
+  font-weight: 500;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  margin-top: 20px;
+}
+#questionmark {
+  display: grid;
+}
+.secretnumber {
+  width: 327px;
+  height: 510px;
+  background-color: white;
+
+  position: absolute;
+  top: 20px;
+  display: none;
+}
+#textsecret {
+  font-size: x-large;
+  color: green;
+  text-align: center;
+  margin-top: 50px;
+  font-weight: 900;
+}
+#secretnumber {
+  font-size: x-large;
+  color: green;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 900;
+}
+.inputnumber {
+  margin-top: 20px;
+  width: 80%;
+  margin-left: 100px;
+}
+#check {
+  margin-top: 20px;
+  width: 80%;
+  margin-left: 100px;
+}
+#startguessing {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+#score {
+  margin-left: 100px;
+  margin-top: 10px;
+  color: navy;
+  display: inline;
+}
+#scorevalue {
+  margin-left: 180px;
+  margin-top: -37px;
+  color: navy;
+  display: inline;
+}
+#highscorevalue {
+  margin-left: 580px;
+  margin-top: -37px;
+  color: navy;
+  display: inline;
+}
+#highscore {
+  margin-left: 400px;
+  margin-top: -37px;
+  color: navy;
+}
+#img1 {
+  width: 700px;
+  height: 400px;
+  margin-top: -30px;
+}
+#toolow {
+  width: 700px;
+  height: 400px;
+  margin-top: -30px;
+
+  position: absolute;
+  top: 260px;
+  display: none;
+}
+#toohigh {
+  width: 700px;
+  height: 400px;
+  margin-top: -30px;
+
+  position: absolute;
+  top: 260px;
+  display: none;
+}
+#lose {
+  width: 700px;
+  height: 400px;
+  margin-top: -30px;
+
+  position: absolute;
+  top: 260px;
+  display: none;
+}
+#win {
+  width: 700px;
+  height: 400px;
+  margin-top: -30px;
+
+  position: absolute;
+  top: 260px;
+  display: none;
+}
